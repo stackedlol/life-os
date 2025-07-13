@@ -6,7 +6,7 @@ tags: stock-market
 - calculates the average price of an asset over a set number of periods (day/hours/months)... by averaging prices, it filters out short-term fluctuations and reveals the underlying trend
 
 ### types of moving averages
-- **simple moving average** **(SMA)**: this sis a straightforward average of prices over a specified period
+- **simple moving average** **(SMA)**: this is a straightforward average of prices over a specified period
 
 - **exponential moving average (EMA):** this gives more weight to recent prices, making it more responsive to new information (reacts quicker to price changes than SMA)
 

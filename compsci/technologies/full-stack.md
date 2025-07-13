@@ -26,7 +26,6 @@ tags: technologies
 - used to manage hardware resources and provide a platform for applications
 ### Layer 3: backend & middleware
 - designed to handle logic and process client-side requests
-- 
 
 ### Layer 4: Frontend & Applications
 - user interface
@@ -39,8 +38,5 @@ tags: technologies
 - **docker** - packaging your application and your dependencies into a single unit called a **container**... enables you to consistently run your application (like [[react]] a web app) in development, testing and production environments.
 
 - **kubernetes** - supposed your react app becomes popular, and you need to handle more traffic... **kubernetes** can automatically scale your application by running multiple instances of your docker container. (requests are evenly distributed across all instances )
-
-- 
-
 ### layer 6: AI & Edge computing
 
