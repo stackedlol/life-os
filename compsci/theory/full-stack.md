@@ -1,5 +1,5 @@
 ---
-tags: technologies
+tags: theory
 ---
 
 > breaking down the complete modern tech stack

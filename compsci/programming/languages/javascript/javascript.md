@@ -13,19 +13,21 @@ tags: language
 ### foundational javascript concepts
 - **"this" keyword**: refers to the context in which a function is executed. It provides a way to access the object that owns the code currently being executed. (hey, who's in charge here? depending on where code in running)
 
-- prototypes
+- **prototypes**
 
 - **closure**: when you create a function inside another function, the inner function can "*remember*" the variables of the outer function... the memory is called closure (you PRESERVE data)
 
-- async-style code
+- **async-style code**
 
 - **promise**: an object that represents a value that might not be available yet but will be resolved in the future. 
 
 - **callback**: a #function you pass into another function to be *called later* when something happens. (when you are done, run this)
 
-- timers
-- observer pattern
-- module pattern
+- **timers**
+
+- **observer pattern**
+
+- **module pattern**
 
 ### why javascript?
 - browser built [[api]](s) built into web browsers, providing functionality such as dynamically creating html and setting css styles.
