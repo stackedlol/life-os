@@ -9,4 +9,3 @@ tags: accounting
 
 ### how COGS is reported 
 - BI + PURCHASES - EI  = COGS during period
-- 

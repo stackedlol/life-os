@@ -10,6 +10,6 @@ tags: internet
 - crucial for marketing, branding, and establishing an online presence
 
 ### Functions of the DNS (Domain Name System)
-- the [[DNS]] translates domains into IP addresses
+- the [[compsci/internet/DNS]] translates domains into IP addresses
 - plays a crucial role in the hosting aspect of web development
 

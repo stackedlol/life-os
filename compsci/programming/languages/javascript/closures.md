@@ -3,7 +3,7 @@ tags: javascript
 ---
 
 ### what are closures?
-- [[functions]] that remembers variables from the place it was created even after that outer function is done running
+- [[compsci/programming/languages/javascript/functions]] that remembers variables from the place it was created even after that outer function is done running
 
 ### why closures?
 - creates custom, reusable logic (counters, settings, toggles)

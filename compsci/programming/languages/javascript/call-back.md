@@ -1,7 +1,7 @@
 ---
 tags: javascript
 ---
-### what are call-back [[functions]]
+### what are call-back [[compsci/programming/languages/javascript/functions]]
 - is a function passed into another function
 ### why callbacks?
 - foundation for [[async]] logic, event handling, and custom control
