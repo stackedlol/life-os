@@ -24,12 +24,12 @@ i. BIOS or UEFI
 3. **Initrd** (Initial RAM Disk)
 	- before the full system is ready, linux needs a few tools (like drivers for disks)
 
-4. Initramfs
+4. **Initramfs**
 	- temporary, compressed file system loaded into memory
 	- modern method compared to initrd
 	- faster and simpler
 
-5. Init System
+5. **Init System**
 	- start services
 	- mounts additional file systems
 	- hands you a login prompt

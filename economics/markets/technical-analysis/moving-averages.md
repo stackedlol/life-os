@@ -2,6 +2,7 @@
 tags: stock-market
 ---
 
+> smooth out price noise to identify trends
 ### what are moving averages?
 - calculates the average price of an asset over a set number of periods (day/hours/months)... by averaging prices, it filters out short-term fluctuations and reveals the underlying trend
 
@@ -16,3 +17,9 @@ tags: stock-market
 - #support & #resistance - moving averages can act as dynamic support or resistance... where prices often bounce off the moving average
 
 - signal generation - crossovers are common signals (a shorter-term moving average cross above a longer-term average )
+
+- they remove daily noise from price data
+
+- shows underlying trend direction
+
+- forms a **basis** for *most* trading signals
