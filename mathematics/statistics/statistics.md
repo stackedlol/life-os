@@ -24,5 +24,37 @@ tags: mathetmatics
 - inferential statistics are **PROBABILITY** based
 - watch out for truncated graphs (jumped y axis)
 
+### applications of statistics
+- for exploratory **[[data-analysis]]**
+	- use histograms to show frequency distribution
+	- box plots for visualizing spread and outliers
+	- scatter plots for understanding relationships between variables
+
+- **hypothesis testing**
+	- null hypothesis vs. alternative hypothesis
+	- types of errors... type I & II
+	- common tests
+		- z-test and t-test for comparing means
+		- chi-squared test for categorical data
+
+- **regression analysis**
+	- simple linear regression to model the relationship between two variables
+	- multiple regression to include more than one predictor variable
+	- assumptions of regression models
+		- linearity
+		- independence
+		- homoscedasticity
+		- normality 
+
+- **ANOVA** - *analysis of variance*
+	- one-way ANOVA to compare means across multiple groups
+	- two-way ANOVE for examining the effect of two factors on a response
+
+- non-parametric tests
+	- when parametric test are not appropriate
+	- examples like Mann-Whitney U test or Kruskal-Wallis H test
+
+
+
 
 

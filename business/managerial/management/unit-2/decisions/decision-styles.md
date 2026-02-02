@@ -29,7 +29,7 @@ tags: management
 ### conceptual style
 - have a high tolerance for ambiguity and tend to focus on the people or social aspects of a work situation 
 - considers many options and future possibilities
-- rely on intuition for [[business/managerial/management/unit-2/decision-making|decision-making]]
+- rely on intuition for [[business/managerial/management/unit-2/decisions/decision-making|decision-making]]
 
 ### behavioral style
 - is the most people-oriented of the four styles
